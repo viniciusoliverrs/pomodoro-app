@@ -1,4 +1,4 @@
 # Pomodoro
 
-<img src="1.png"/>
-<img src="2.png"/>
+<img src="printscreens/1.png"/>
+<img src="printscreens/2.png"/>
